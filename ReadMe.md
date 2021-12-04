@@ -13,6 +13,7 @@
 # About ME 💬 :
 
 ### - I'm 23 years old Python & Data Science Enthusiast from India.
+</br>
 
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.gif">
 
@@ -398,7 +399,7 @@
 <p>
 </br>
 
-<img hight="280" width="400" align="right" alt="GIF" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/AdorableSadGelding-mobile.mp4">
+<img hight="280" width="400" align="right" alt="GIF" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/208593.gif">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
