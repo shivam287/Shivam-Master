@@ -14,7 +14,7 @@
 ### - I'm 23 years old Python & Data Science Enthusiast from India.
 
 <p>
-<video hight="450" width="550" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.mp4">
+<img hight="450" width="550" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.mp4">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -28,7 +28,6 @@
 - ✨ Listening Music
 
 </p>
-</br>
 </br>
 
 ----
