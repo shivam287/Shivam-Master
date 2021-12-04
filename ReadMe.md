@@ -32,8 +32,7 @@
 </br>
 </br>
 
-</hr>
----
+*************
 
 
 # GitHub Stats
@@ -428,6 +427,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
-
-*************
 
