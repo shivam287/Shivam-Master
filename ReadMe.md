@@ -411,9 +411,12 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </a>
 </p>
 
+</br>
+</br>
+</br>
 <p align=center>
  <img src="https://github-readme-stats.vercel.app/api?username=shivam287&show_icons=true&theme=tokyonight&count_private=true" />
 </p>
 
-[![Shivam Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam287&theme=react-dark&hide_border=true&area=true)]
+![Shivam Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=shivam287&theme=react-dark&hide_border=true&area=true)
 
