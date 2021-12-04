@@ -6,7 +6,6 @@
 
 </br>
 </br>
-</br>
 
 ---
 
@@ -14,8 +13,25 @@
 
 ### - I'm 23 years old Python & Data Science Enthusiast from India.
 
-<p>
+<table>
+<tr>
+<td>
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ Python, Data Science
+- ✨ Flask, JavaScript
+
+### - Hobbies : 
+- ✨ Gaming Addict
+- ✨ Watching Anime
+- ✨ Reading Light Novels
+- ✨ Listening Music
+</td>
+<td>
 <img hight="300" width="400" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.gif">
+</td>
+</tr>
+</table> 
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
@@ -27,7 +43,7 @@
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Listening Music
-</p>
+
 
 </br>
 
