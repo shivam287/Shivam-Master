@@ -20,7 +20,7 @@
 ### - Learning :
 - ✨ Data Structures & Algorithms
 - ✨ Python, Data Science
-- ✨ 
+- ✨ Flask, JavaScript
 
 ### - Hobbies : 
 - ✨ Gaming Addict
