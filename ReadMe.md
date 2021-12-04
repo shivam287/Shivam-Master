@@ -1,7 +1,7 @@
 # Hello There !!! 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/Smiling%20Leo%20Perfect%20GIF.gif">
+<img hight="300" width="500" alt="GIF" align="center" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/Smiling%20Leo%20Perfect%20GIF.gif">
 </div>
 
 </br>
@@ -15,7 +15,7 @@
 ### - I'm 23 years old Python & Data Science Enthusiast from India.
 
 <p>
-<img hight="200" width="300" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.gif">
+<img hight="300" width="400" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.gif">
 
 ### - Learning :
 - ✨ Data Structures & Algorithms
