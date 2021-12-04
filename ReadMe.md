@@ -13,8 +13,8 @@
 # About ME 💬 :
 
 ### - I'm 23 years old Python & Data Science Enthusiast from India.
-</br>
 
+<p>
 <img hight="400" width="500" alt="GIF" align="right" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/1936.gif">
 
 ### - Learning :
@@ -27,6 +27,7 @@
 - ✨ Watching Anime
 - ✨ Reading Light Novels
 - ✨ Listening Music
+</p>
 
 </br>
 
@@ -403,6 +404,8 @@
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
+</br>
+</br>
 
 <a href="https://www.linkedin.com/in/shivam-mishra-16823b164/">
   <img align="left" alt="Linkedin" width="150" hight="50" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/icons/linkedin.png" />
@@ -411,6 +414,4 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </a>
 </p>
- 
 
-*************
