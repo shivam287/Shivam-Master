@@ -28,11 +28,9 @@
 - ✨ Listening Music
 
 </br>
-</br>
-</br>
 
 ---
-
+<!-- For more icons visit: https://github.com/MikeCodesDotNET/ColoredBadges -->
 ## Developer Tech
 
 ### Frameworks 
@@ -234,14 +232,6 @@
   <a href="#">
     <img src="svg/dev/services/codewars.svg" alt="codewars" style="vertical-align:top; margin:6px 4px">
   </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/digitalocean.svg" alt="digitalocean" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/services/dockerhub.svg" alt="dockerhub" style="vertical-align:top; margin:6px 4px">
-  </a> 
   
   <a href="#">
     <img src="svg/dev/services/excercism.svg" alt="excercism" style="vertical-align:top; margin:6px 4px">
@@ -267,7 +257,6 @@
     <img src="svg/dev/services/kubernetes.svg" alt="kubernetes" style="vertical-align:top; margin:6px 4px">
   </a> 
 
-  
   <a href="#">
     <img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
   </a> 
@@ -301,14 +290,12 @@
   </a> 
 
   <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-
-  <a href="#">
     <img src="svg/dev/tools/eclipse.svg" alt="eclipse" style="vertical-align:top; margin:6px 4px">
   </a> 
-
+  
+   <a href="#">
+    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
+  </a> 
 
   <a href="#">
     <img src="svg/dev/tools/jetbrains_appcode.svg" alt="jetbrains_appcode" style="vertical-align:top; margin:6px 4px">
@@ -335,10 +322,6 @@
   </a> 
 
   <a href="#">
-    <img src="svg/dev/tools/jetbrains_pycharm.svg" alt="jetbrains_pycharm" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
     <img src="svg/dev/tools/jetbrains_webstorm.svg" alt="jetbrains webstorm" style="vertical-align:top; margin:6px 4px">
   </a> 
 
@@ -353,7 +336,6 @@
   <a href="#">
     <img src="svg/dev/tools/powershell.svg" alt="powershell" style="vertical-align:top; margin:6px 4px">
   </a> 
-
 
   <a href="#">
     <img src="svg/dev/tools/visualstudio.svg" alt="visualstudio" style="vertical-align:top; margin:6px 4px">
@@ -385,19 +367,7 @@
   </a>  
 
   <a href="#">
-    <img src="svg/devices/mac.svg" alt="mac" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/devices/nintendo.svg" alt="nintendo" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/devices/philips_hue.svg" alt="philips_hue" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -413,18 +383,10 @@
 ---
 
 ## Pronouns 
+
 <p align="left">
   <a href="#">
     <img src="svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/pronouns/sheher.svg" alt="she / her" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="svg/pronouns/theythem.svg" alt="they / them" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 </p>
@@ -436,13 +398,13 @@
 <p>
 </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/93195.gif">
+<img hight="280" width="400" align="right" alt="GIF" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/AdorableSadGelding-mobile.mp4">
 
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
 
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/shivam-mishra-16823b164/">
+  <img align="left" alt="Linkedin" width="150" hight="50" src="https://github.com/shivam287/Shivam-Master/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
 </br>
